@@ -1,0 +1,24 @@
+h1 {
+color: Orange;
+font-size: 60px;
+font font-family:cursive;
+background-color: Bisque;
+text-align: center;
+}
+body {
+background-color: Sandybrown;
+}
+p {
+color: maroon;
+text-align: center;
+font-size: 40px;
+font-family: cursive;
+}
+img {
+width: 30%;
+height: 30%;
+
+}
+input {
+align-content: center;
+}

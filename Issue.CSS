@@ -1,0 +1,22 @@
+h1 {
+  color: Lavender;
+  font-family: cursive;
+  font-size: 90px;
+  text-align: center;
+  background-color: DarkMagenta ;
+}
+h2 {
+ color: black;
+ font-family: cursive;
+ font-size: 60px;
+ background-color:Lavender;
+ text-align:center;
+}
+body {
+  color: purple;
+  font-family: cursive;
+  font-weight: 800;
+  background-color: PeachPuff;
+  font-size: 20px;
+  text-align: center;
+}

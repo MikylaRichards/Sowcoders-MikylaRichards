@@ -1,0 +1,30 @@
+body {
+background-color: Greenyellow;
+}
+
+h1 {
+color: Navy;
+text-align: center;
+font-size: 40px;
+font-family: cursive;
+background-color: AntiqueWhite;
+}
+body {
+Color: Navy;
+text-align: center;
+font-family: cursive;
+font-weight: 60;
+font-size: 30px;
+}
+
+h2 {
+color:Navy;
+text-align: center;
+font-family: cursive;
+background-color: AntiqueWhite;
+font-size: 40px;
+}
+
+img {
+width: 30%;
+}
